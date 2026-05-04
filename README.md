@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning network architecture<br>🎯 Goals: always improving and starting my own company in 2026</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning network architecture<br>🎯 Goals: becoming a web architect expert</p>
 
 ###
 
